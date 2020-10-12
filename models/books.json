@@ -1,0 +1,755 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "B1hSG45JCX4C",
+    "etag": "uW4ptUpB8cs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/B1hSG45JCX4C",
+    "volumeInfo": {
+      "title": "Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Penguin",
+      "publishedDate": "2005",
+      "description": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0441013597"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780441013593"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 528,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 34,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "3.1.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=B1hSG45JCX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=B1hSG45JCX4C&printsec=frontcover&dq=dune&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=B1hSG45JCX4C&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=B1hSG45JCX4C"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=B1hSG45JCX4C&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Follows the adventures of Paul Atreides, the son of a betrayed duke given up for dead on a treacherous desert planet and adopted by its fierce, nomadic people, who help him unravel his most unexpected destiny."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "DxmKzQEACAAJ",
+    "etag": "p5RR3bPczpk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DxmKzQEACAAJ",
+    "volumeInfo": {
+      "title": "Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Hodder Paperbacks",
+      "publishedDate": "2020-11-10",
+      "description": "Before The Matrix, before Star Wars, before Ender's Game and Neuromancer, there was Dune: winner of the prestigious Hugo and Nebula awards, and widely considered one of the greatest science fiction novels ever written. Melange, or 'spice', is the most valuable - and rarest - element in the universe; a drug that does everything from increasing a person's life-span to making intersteller travel possible. And it can only be found on a single planet: the inhospitable desert world Arrakis. Whoever controls Arrakis controls the spice. And whoever controls the spice controls the universe. When the Emperor transfers stewardship of Arrakis from the noble House Harkonnen to House Atreides, the Harkonnens fight back, murdering Duke Leto Atreides. Paul, his son, and Lady Jessica, his concubine, flee into the desert. On the point of death, they are rescued by a band for Fremen, the native people of Arrakis, who control Arrakis' second great resource: the giant worms that burrow beneath the burning desert sands. In order to avenge his father and retake Arrakis from the Harkonnens, Paul must earn the trust of the Fremen and lead a tiny army against the innumerable forces aligned against them. And his journey will change the universe.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1529347858"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781529347852"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 592,
+      "printType": "BOOK",
+      "averageRating": 4,
+      "ratingsCount": 10,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=DxmKzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=DxmKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=DxmKzQEACAAJ&dq=dune&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=DxmKzQEACAAJ&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=DxmKzQEACAAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=DxmKzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "otN6zQEACAAJ",
+    "etag": "pen9Yn4nZsg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/otN6zQEACAAJ",
+    "volumeInfo": {
+      "title": "Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Hodder Paperbacks",
+      "publishedDate": "2020-11",
+      "description": "Before The Matrix, before Star Wars, before Ender's Game and Neuromancer, there was Dune: winner of the prestigious Hugo and Nebula awards, and widely considered one of the greatest science fiction novels ever written. Melange, or 'spice', is the most valuable - and rarest - element in the universe; a drug that does everything from increasing a person's life-span to making intersteller travel possible. And it can only be found on a single planet: the inhospitable desert world Arrakis. Whoever controls Arrakis controls the spice. And whoever controls the spice controls the universe. When the Emperor transfers stewardship of Arrakis from the noble House Harkonnen to House Atreides, the Harkonnens fight back, murdering Duke Leto Atreides. Paul, his son, and Lady Jessica, his concubine, flee into the desert. On the point of death, they are rescued by a band for Fremen, the native people of Arrakis, who control Arrakis' second great resource: the giant worms that burrow beneath the burning desert sands. In order to avenge his father and retake Arrakis from the Harkonnens, Paul must earn the trust of the Fremen and lead a tiny army against the innumerable forces aligned against them. And his journey will change the universe.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1529347866"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781529347869"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 592,
+      "printType": "BOOK",
+      "averageRating": 4,
+      "ratingsCount": 10,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=otN6zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=otN6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=otN6zQEACAAJ&dq=dune&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=otN6zQEACAAJ&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dune.html?hl=&id=otN6zQEACAAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=otN6zQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Before The Matrix, before Star Wars, before Ender&#39;s Game and Neuromancer, there was Dune: winner of the prestigious Hugo and Nebula awards, and widely considered one of the greatest science fiction novels ever written.Melange, or &#39;spice&#39;, ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "p1MULH7JsTQC",
+    "etag": "lNCnbSBqDU8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/p1MULH7JsTQC",
+    "volumeInfo": {
+      "title": "Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Penguin",
+      "publishedDate": "2003-08-26",
+      "description": "SOON TO BE A MAJOR MOTION PICTURE directed by Denis Villeneuve, starring Timothée Chalamet, Josh Brolin, Jason Momoa, Zendaya, Rebecca Ferguson, Oscar Isaac, Javier Bardem, Dave Bautista, Stellan Skarsgård, and Charlotte Rampling. Frank Herbert’s classic masterpiece—a triumph of the imagination and one of the bestselling science fiction novels of all time. Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for.... When House Atreides is betrayed, the destruction of Paul’s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad’Dib, he will bring to fruition humankind’s most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781101658055"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1101658053"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 896,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 15,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.16.13.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=p1MULH7JsTQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=p1MULH7JsTQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=p1MULH7JsTQC&printsec=frontcover&dq=dune&hl=&cd=4&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=p1MULH7JsTQC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p1MULH7JsTQC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=p1MULH7JsTQC&rdid=book-p1MULH7JsTQC&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": {
+            "amountInMicros": 9990000,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amountInMicros": 9990000,
+            "currencyCode": "USD"
+          },
+          "giftable": true
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Dune-sample-epub.acsm?id=p1MULH7JsTQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=p1MULH7JsTQC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "RHIiCLH6n3gC",
+    "etag": "CGT2qTSgsfI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/RHIiCLH6n3gC",
+    "volumeInfo": {
+      "title": "Dune Messiah",
+      "authors": ["Frank Herbert"],
+      "publisher": "Penguin",
+      "publishedDate": "2008",
+      "description": "The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader, while on Arrakis, the Maud'dib, the heir to an unimaginable power, confronts new challenges.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0441015611"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780441015610"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 276,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 3.5,
+      "ratingsCount": 69,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=RHIiCLH6n3gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=RHIiCLH6n3gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=RHIiCLH6n3gC&printsec=frontcover&dq=dune&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=RHIiCLH6n3gC&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dune_Messiah.html?hl=&id=RHIiCLH6n3gC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=RHIiCLH6n3gC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The sisterhood of the Bene Gesserit plots to seize control of the galaxy-wide empire of their supernatural leader, while on Arrakis, the Maud&#39;dib, the heir to an unimaginable power, confronts new challenges."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "hlbSrcGnhRIC",
+    "etag": "E6c6xl6B41o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hlbSrcGnhRIC",
+    "volumeInfo": {
+      "title": "Dreamer of Dune",
+      "subtitle": "The Biography of Frank Herbert",
+      "authors": ["Brian Herbert"],
+      "publisher": "Macmillan",
+      "publishedDate": "2004-07",
+      "description": "A biography of the science fiction writer, presented by his son, describes Herbert's childhood in Tacoma, Washington, his early years as a reporter and editor, his military service, and his struggles to become published.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0765306476"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780765306470"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 592,
+      "printType": "BOOK",
+      "categories": ["Biography & Autobiography"],
+      "averageRating": 3,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "3.1.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=hlbSrcGnhRIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hlbSrcGnhRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=hlbSrcGnhRIC&printsec=frontcover&dq=dune&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=hlbSrcGnhRIC&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dreamer_of_Dune.html?hl=&id=hlbSrcGnhRIC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=hlbSrcGnhRIC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "A biography of the science fiction writer, presented by his son, describes Herbert&#39;s childhood in Tacoma, Washington, his early years as a reporter and editor, his military service, and his struggles to become published."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "3LyWDwAAQBAJ",
+    "etag": "sx8X4ick/7o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3LyWDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Chapterhouse: Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Ace",
+      "publishedDate": "2019-06-04",
+      "description": "Frank Herbert's Final Novel in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The desert planet Arrakis, called Dune, has been destroyed. The remnants of the Old Empire have been consumed by the violent matriarchal cult known as the Honored Matres. Only one faction remains a viable threat to their total conquest--the Bene Gesserit, heirs to Dune's power. Under the leadership of Mother Superior Darwi Odrade, the Bene Gesserit have colonized a green world on the planet Chapterhouse and are turning it into a desert, mile by scorched mile. And once they've mastered breeding sandworms, the Sisterhood will control the production of the greatest commodity in the known galaxy--the spice melange. But their true weapon remains a man who has lived countless lifetimes--a man who served under the God Emperor Paul Muad'Dib....",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780593098271"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0593098277"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 624,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=3LyWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=3LyWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=3LyWDwAAQBAJ&pg=PP1&dq=dune&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=3LyWDwAAQBAJ&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Chapterhouse_Dune.html?hl=&id=3LyWDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=3LyWDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Frank Herbert&#39;s Final Novel in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The desert planet Arrakis, called Dune, has been destroyed."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "dLbwPpBYDl8C",
+    "etag": "qx42Zd3lbyI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dLbwPpBYDl8C",
+    "volumeInfo": {
+      "title": "Dune: The Machine Crusade",
+      "subtitle": "Book Two of the Legends of Dune Trilogy",
+      "authors": ["Brian Herbert", "Kevin J. Anderson"],
+      "publisher": "Macmillan",
+      "publishedDate": "2004-08-01",
+      "description": "The breathtaking vision and incomparable storytelling of Brian Herbert and Kevin Anderson's Dune: The Butlerian Jihad, a prequel to Frank Herbert's classic Dune, propelled it to the ranks of speculative fiction's classics in its own right. Now, with all the color, scope, and fascination of the prior novel, comes Dune: The Machine Crusade. More than two decades have passed since the events chronicled in The Butlerian Jihad. The crusade against thinking robots has ground on for years, but the forces led by Serena Butler and Irbis Ginjo have made only slight gains; the human worlds grow weary of war, of the bloody, inconclusive swing from victory to defeat. The fearsome cymeks, led by Agamemnon, hatch new plots to regain their lost power from Omnius--as their numbers dwindle and time begins to run out. The fighters of Ginaz, led by Jool Noret, forge themselves into an elite warrior class, a weapon against the machine-dominated worlds. Aurelius Venport and Norma Cenva are on the verge of the most important discovery in human history-a way to \"fold\" space and travel instantaneously to any place in the galaxy. And on the faraway, nearly worthless planet of Arrakis, Selim Wormrider and his band of outlaws take the first steps to making themselves the feared fighters who will change the course of history: the Fremen. Here is the unrivaled imaginative power that has put Brian Herbert and Kevin Anderson on bestseller lists everywhere and earned them the high regard of readers around the globe. The fantastic saga of Dune continues in Dune: The Machine Crusade. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1429967897"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781429967891"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 624,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4,
+      "ratingsCount": 21,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.10.10.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=dLbwPpBYDl8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dLbwPpBYDl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=dLbwPpBYDl8C&pg=PP1&dq=dune&hl=&cd=8&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=dLbwPpBYDl8C&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dLbwPpBYDl8C"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=dLbwPpBYDl8C&rdid=book-dLbwPpBYDl8C&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": {
+            "amountInMicros": 9990000,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amountInMicros": 9990000,
+            "currencyCode": "USD"
+          },
+          "giftable": true
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=dLbwPpBYDl8C&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Here is the unrivaled imaginative power that has put Brian Herbert and Kevin Anderson on bestseller lists everywhere and earned them the high regard of readers around the globe."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "IpLqDwAAQBAJ",
+    "etag": "afb3EHvmecI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IpLqDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Children of Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Ace",
+      "publishedDate": "2020-07-07",
+      "description": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad'Dib, disappeared in the desert wastelands of Arrakis nine years ago. Like their father, the twins possess supernormal abilities--making them valuable to their manipulative aunt Alia, who rules the Empire in the name of House Atreides. Facing treason and rebellion on two fronts, Alia's rule is not absolute. The displaced House Corrino is plotting to regain the throne while the fanatical Fremen are being provoked into open revolt by the enigmatic figure known only as The Preacher. Alia believes that by obtaining the secrets of the twins' prophetic visions, she can maintain control over her dynasty. But Leto and Ghanima have their own plans for their visions--and their destinies....",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780593201749"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0593201744"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 496,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 3.5,
+      "ratingsCount": 33,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=IpLqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&pg=PP1&dq=dune&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=IpLqDwAAQBAJ&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Children_of_Dune.html?hl=&id=IpLqDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=IpLqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Book Three in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time The Children of Dune are twin siblings Leto and Ghanima Atreides, whose father, the Emperor Paul Muad&#39;Dib, disappeared in the desert ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "8spmDwAAQBAJ",
+    "etag": "VJ1p1ir8RTU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8spmDwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Great Dune Trilogy",
+      "subtitle": "Dune, Dune Messiah, Children of Dune",
+      "authors": ["Frank Herbert"],
+      "publisher": "Hachette UK",
+      "publishedDate": "2018-10-18",
+      "description": "Three of the greatest SF novels in the world in one bumper omnibus 'An astonishing science fiction phenomenon' WASHINGTON POST Herbert's evocative, epic tales are set on the desert planet Arrakis, the focus for a complex political and military struggle with galaxy-wide repercussions. Arrakis is the source of spice, a mind-enhancing drug which makes interstellar travel possible; it is the most valuable substance in the galaxy. When Duke Atreides and his family take up court there, they fall into a trap set by the Duke's bitter rival, Baron Harkonnen. The Duke is poisoned, but his wife and her son Paul escape to the vast and arid deserts of Arrakis, which have given the planet its nickname of Dune. Paul and his mother join the Fremen, the Arrakis natives, who have learnt to live in this harsh and complex ecosystem. But learning to survive is not enough - Paul's destiny was mapped out long ago and his mother is committed to seeing it fulfilled.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781473226579"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1473226570"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 912,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.3.4.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=8spmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=8spmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=8spmDwAAQBAJ&dq=dune&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=8spmDwAAQBAJ&dq=dune&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Dune_Trilogy.html?hl=&id=8spmDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=8spmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Three of the greatest SF novels in the world in one bumper omnibus &#39;An astonishing science fiction phenomenon&#39; WASHINGTON POST Herbert&#39;s evocative, epic tales are set on the desert planet Arrakis, the focus for a complex political and ..."
+    }
+  }
+]
