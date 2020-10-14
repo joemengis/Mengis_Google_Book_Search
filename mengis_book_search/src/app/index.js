@@ -12,7 +12,7 @@ function App() {
             <NavBar />
             <Switch>
                 <Route path="/books/list" exact component={BooksList} />
-                <Route path="/books/create" exact component={BooksInsert} />
+                <Route path="/books/search" exact component={BooksInsert} />
                 <Route
                     path="/books/update/:id"
                     exact

@@ -1,7 +1,8 @@
-import React, { Component } from 'react'
-import api from '../api'
+import React, { Component } from 'react';  
+import api from '../api';
 
 import styled from 'styled-components'
+import "react-table-6/react-table.css" 
 
 const Title = styled.h1.attrs({
     className: 'h1',
@@ -29,11 +30,7 @@ const Button = styled.button.attrs({
     margin: 15px 15px 15px 5px;
 `
 
-const CancelButton = styled.a.attrs({
-    className: `btn btn-danger`,
-})`
-    margin: 15px 15px 15px 5px;
-`
+
 
 class BooksInsert extends Component {
     constructor(props) {
@@ -41,6 +38,7 @@ class BooksInsert extends Component {
 
         this.state = {
             title: '',
+            imageURL: null,
             authors: '',
             description: '',
             books: []
@@ -99,21 +97,29 @@ class BooksInsert extends Component {
     }
     render() {
         const { title, books } = this.state
+        console.log('Searched books', books);
+
+      
+
         return (
             <Wrapper>
-                <Title>Create Book</Title>
+                <Title>Search Books</Title>
 
-                <Label>Title: </Label>
+                <Label>Enter a Title or Author: </Label>
                 <InputText
                     type="text"
                     value={title}
                     onChange={this.handleChangeInputTitle}
                 />
+               
                 {books.map(book => (
                     <div key={book.id}>
+                        <img src={book.volumeInfo?.imageLinks?.thumbnail} alt={"thank you"} />
+                        <br/>
                         <a href={book.volumeInfo.infoLink}>{book.volumeInfo.title}</a>
-                        <img src={book.volumeInfo?.imageLinks?.thumbnail} />
-                        <button onClick={() => this.saveBook(book.id)}>Save</button>
+                        <p>{book.volumeInfo.authors}</p>
+                        <p>{book.volumeInfo.description}</p>
+                        <Button onClick={() => this.saveBook(book.id)}>Save</Button>
                     </div>
                 ))}
             </Wrapper>
