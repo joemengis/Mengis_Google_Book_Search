@@ -25,12 +25,12 @@ class Links extends Component {
                     <List>
                         <Item>
                             <Link to="/books/list" className="nav-link">
-                                List Books
+                                My Books
                             </Link>
                         </Item>
                         <Item>
-                            <Link to="/books/create" className="nav-link">
-                                Create Book
+                            <Link to="/books/search" className="nav-link">
+                                Search Book
                             </Link>
                         </Item>
                     </List>
