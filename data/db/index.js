@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 mongoose
-    .connect('mongodb://127.0.0.1:27017/googlebooks', { useNewUrlParser: true }, console.log("connected"))
+    .connect('mongodb+srv://ljmengis:DittyThrees@120bpm@cluster0.fwhpy.mongodb.net/Mengis_Book_List?retryWrites=true&w=majority', { useNewUrlParser: true }, console.log("connected"))
     .catch(e => {
         console.error('Connection error', e.message)
     })

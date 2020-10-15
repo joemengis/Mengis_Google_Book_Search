@@ -18,8 +18,8 @@ class Links extends Component {
     render() {
         return (
             <React.Fragment>
-                <Link to="/" className="navbar-brand">
-                    Mengis Book Search
+                <Link to="/books/list" className="navbar-brand">
+                    Joseph Mengis' Book List
                 </Link>
                 <Collapse>
                     <List>
